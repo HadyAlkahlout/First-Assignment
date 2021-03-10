@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "256785561685",
+    "project_id": "first-assignment-41dd1",
+    "storage_bucket": "first-assignment-41dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256785561685:android:9441cabd4159de57763cdc",
+        "android_client_info": {
+          "package_name": "com.hady.firstassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256785561685-3c99ok311eldco1pqqagpdjqt6fc6a9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hady.firstassignment",
+            "certificate_hash": "59e841b8a295303b613b55582afa88c3e39b7c76"
+          }
+        },
+        {
+          "client_id": "256785561685-9jqs38aj95dt25gbl482aarl9bubt1k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZhrR_21_Eyzrj4vCqgOZd_zoS-aWaF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256785561685-9jqs38aj95dt25gbl482aarl9bubt1k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Assignment</string>
+    <string name="add_new_item_to_the_database">Add New Item To The Database</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="number">Number</string>
+    <string name="address">Address</string>
+</resources>
